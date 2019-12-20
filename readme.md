@@ -68,3 +68,5 @@ This way you should change the config acount .env / config/app.php
 php artisan serve
 
 Product Url : http://www.ferlick.com/admin
+
+The Sql is in the database
